@@ -1,11 +1,8 @@
 # normalize-noIE.css
-an adaptation of normalize.css cutting all IE support
-
+This adaptation of `normalize.css` (cutting away ~1/3 of code by removing [IE](https://en.wikipedia.org/wiki/Internet_Explorer) support) can be used with [web applications](https://en.wikipedia.org/wiki/Web_application) optimized for non-MS browsers, or in production environments where the user has no option to use IE.
 
 The  [original `normalize.css`](https://github.com/necolas/normalize.css) is a customisable CSS file that makes browsers render all
 elements more consistently and in line with modern standards.
-
-This project only cuts away the [IE](https://en.wikipedia.org/wiki/Internet_Explorer) support.
 
 ## Install
 
